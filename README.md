@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shivansh Verma
+# About me
+- 👋 Hello, I’m Shivansh Verma
 - 👀 I’m interested in Computational Biology and Bioinformatics
 - 🌱 I’m currently learning RNA-Seq,genomics data,Statistics and data visualization and data analysis in R and python.
 - 💞️ I’m looking to collaborate on projects related to computational Biology and bioinformatics.
